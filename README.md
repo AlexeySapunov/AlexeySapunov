@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**AlexeySapunov/AlexeySapunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://t.me/blacka8607">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://gb.ru/users/6232121">
+    <img src="https://img.shields.io/badge/Geekbrains-black?style=for-the-badge&logo=geekbrains&logoColor=white" alt="Geekbrains Badge"/>
+  </a>
+  <a href="https://career.habr.com/alexeysapunov">
+    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=AlexeySapunov&style=flat-square&color=blue" alt="AlexeySapunov"/>
+  </a>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
