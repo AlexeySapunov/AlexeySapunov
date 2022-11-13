@@ -12,6 +12,9 @@
   <a href="https://career.habr.com/alexeysapunov">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/20492332/alexey">
+    <img src="https://img.shields.io/badge/stackoverflow-brown?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
+  </a> 
 </div>
 
 <div id="badges" align="center">
