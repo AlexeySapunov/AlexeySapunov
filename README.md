@@ -76,7 +76,13 @@ I am a student, studying to become a java developer <img src="https://media.giph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeySapunov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ### :writing_hand: Blog Posts : -->
 
+
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
     
 
