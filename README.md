@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://gb.ru/users/6232121">
-    <img src="https://img.shields.io/badge/Geekbrains-black?style=for-the-badge&logo=geekbrains&logoColor=white" alt="Geekbrains Badge"/>
+    <img src="https://img.shields.io/badge/Geekbrains-white?style=for-the-badge&logo=geekbrains&logoColor=white" alt="Geekbrains Badge"/>
   </a>
   <a href="https://career.habr.com/alexeysapunov">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
