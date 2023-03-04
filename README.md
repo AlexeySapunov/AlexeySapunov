@@ -6,6 +6,9 @@
   <a href="https://t.me/blacka8607">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://krasnodar.hh.ru/resume/7147b890ff0b71fa050039ed1f336173664f47">
+    <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh&logoColor=black" alt="hh Badge"/>
+  </a>
   <a href="https://gb.ru/users/6232121">
     <img src="https://img.shields.io/badge/Geekbrains-white?style=for-the-badge&logo=geekbrains&logoColor=white" alt="Geekbrains Badge"/>
   </a>
